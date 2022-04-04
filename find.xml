@@ -20,7 +20,7 @@
     <mask>db_schema.xml</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
-    <mask>*.csv</mask>
     <mask>*.less</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
