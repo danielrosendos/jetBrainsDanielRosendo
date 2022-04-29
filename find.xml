@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.php4</mask>
@@ -22,8 +22,8 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.csv</mask>
-    <mask>*.less</mask>
     <mask>*_form.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.less</mask>
   </component>
 </application>
